@@ -30,6 +30,6 @@ This repository covers my plan for transitioning from digital analytics to data 
 - *Attend Conferences and Meetups:* I should participate in industry conferences, webinars, and local meetups to stay updated on the latest trends and network with professionals in the field.
 
 ### 7. *Learning Resources*
-- *Books:* I should read books such as "Designing Data-Intensive Applications" by Martin Kleppmann, "Data Engineering on Azure" by Vlad Riscutia, and "Data Pipelines with Apache Airflow" by Bas P. Harenslak and Julian Rutger de Ruiter.
-- *Online Courses:* I need to enroll in courses on Coursera, Udacity, or edX that focus on data engineering and ML pipelines.
+- *Books:* I should read books such as "[Designing Data-Intensive Applications](https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)" by Martin Kleppmann, "Data Engineering on Azure" by Vlad Riscutia, and "Data Pipelines with Apache Airflow" by Bas P. Harenslak and Julian Rutger de Ruiter.
+- *Online Courses:* I need to enrol in courses on Coursera, Udacity, or edX that focus on data engineering and ML pipelines.
 - *Blogs and Tutorials:* I should follow blogs and tutorials from data engineering experts and organizations to learn about best practices and new technologies.

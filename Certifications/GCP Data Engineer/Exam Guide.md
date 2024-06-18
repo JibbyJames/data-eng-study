@@ -25,11 +25,11 @@ Considerations include:
 Considerations include:
 - Mapping current and future business requirements to the architecture
 - Designing for data and application portability (e.g., multi-cloud and data residency requirements)
-- Data staging, cataloging, and discovery (data governance)
+- Data staging, cataloguing, and discovery (data governance)
 
 ### 1.4 Designing Data Migrations
 Considerations include:
-- Analyzing current stakeholder needs, users, processes, and technologies and creating a plan to get to the desired state
+- Analysing current stakeholder needs, users, processes, and technologies and creating a plan to get to the desired state
 - Planning migration to Google Cloud (e.g., BigQuery Data Transfer Service, Database Migration Service, Transfer Appliance, Google Cloud networking, Datastream)
 - Designing the migration validation strategy
 - Designing the project, dataset, and table architecture to ensure proper data governance
@@ -64,7 +64,7 @@ Considerations include:
 
 ### 3.1 Selecting Storage Systems
 Considerations include:
-- Analyzing data access patterns
+- Analysing data access patterns
 - Choosing managed services (e.g., Bigtable, Spanner, Cloud SQL, Cloud Storage, Firestore, Memorystore)
 - Planning for storage costs and performance
 - Lifecycle management of data
@@ -93,7 +93,7 @@ Considerations include:
 ### 4.1 Preparing Data for Visualization
 Considerations include:
 - Connecting to tools
-- Precalculating fields
+- Pre-calculating fields
 - BigQuery materialized views (view logic)
 - Determining granularity of time data
 - Troubleshooting poor performing queries
@@ -142,3 +142,8 @@ Considerations include:
 - Running jobs in multiple regions or zones
 - Preparing for data corruption and missing data
 - Data replication and failover (e.g., Cloud SQL, Redis clusters)
+
+
+## Training for the Exam
+
+[Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/16) - 13 Courses to prepare for the exam.
