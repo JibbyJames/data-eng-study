@@ -11,3 +11,7 @@ Focus on each sub-section listed in the Exam Guide one at a time, spending sever
 - [Leverege/gcp-data-engineer-exam](https://github.com/Leverege/gcp-data-engineer-exam)
 - [ml874/Data-Engineering-on-GCP-Cheatsheet](https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet)
 - [jorwalk/data-engineering-gcp](https://github.com/jorwalk/data-engineering-gcp)
+
+## Practice Exams
+
+- https://github.com/jorwalk/data-engineering-gcp/blob/master/practice-exam/data-engineer.md
