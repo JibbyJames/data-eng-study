@@ -22,7 +22,7 @@ This repository covers my plan for transitioning from digital analytics to data 
 - *Contribute to Open Source:* I need to contribute to open-source data engineering and ML projects to build my portfolio and gain real-world experience.
 
 ### 5. *Certifications*
-- *Cloud Certifications:* I should obtain certifications related to cloud platforms, such as [Google Cloud Professional Data Engineer](./Certifications/GCP%20Data%20Engineer/), AWS Certified Data Analytics – Specialty, or Azure Data Engineer Associate.
+- *Cloud Certifications:* I should obtain certifications related to cloud platforms, such as [Google Cloud Professional Data Engineer](./GCP%20Data%20Engineer%20Certification/), AWS Certified Data Analytics – Specialty, or Azure Data Engineer Associate.
 - *Data Engineering Certifications:* I should consider certifications specific to data engineering, such as the Databricks Certified Data Engineer or Cloudera Certified Professional Data Engineer.
 
 ### 6. *Networking and Community Involvement*
